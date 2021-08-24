@@ -1,8 +1,8 @@
 {
-  "name": "aligneer-public",
+  "name": "gatsby-baseline",
   "version": "1.0.0",
   "private": true,
-  "description": "AligneerPublic",
+  "description": "GatsbyBaseline",
   "author": "nosox",
   "keywords": [
     "gatsby"
@@ -30,6 +30,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
-    "sass": "^1.38.1"
+    "sass": "^1.38.1",
+    "update": "^0.7.4"
   }
 }
